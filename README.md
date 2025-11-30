@@ -1,7 +1,7 @@
 # 💬 Real-Time Chatroom using Go RPC with Concurrency
 
 ## 📽️ Demo
-🎥 [Recording Link](https://screenapp.io/app/v/ml6oCrEZrJ)
+🎥 [Recording Link](https://screenapp.io/app/v/ml6oCrEZrJ) #Archived demo recording — removed as outdated#
 
 ## 📘 Description
 A real-time chatroom built in Go using RPC with concurrent message broadcasting.
